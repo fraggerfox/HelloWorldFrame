@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: HelloWorldFrame
+## Author: fraggerfox
+## Version: 0.1
+## Notes: A simple "Hello World" Frame
+## eMail: santhosh.raju@gmail.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+HelloWorldFrameForm.xml
+HelloWorldFrame.lua
